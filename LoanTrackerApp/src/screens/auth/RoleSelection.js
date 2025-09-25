@@ -5,11 +5,11 @@ import Button from '../../components/common/Button';
 
 const RoleSelection = () => {
   const handleBeneficiary = () => {
-    alert('You selected Beneficiary!');
+    navigation.navigate('BeneficiaryDashboard');
   };
 
   const handleOfficer = () => {
-    alert('You selected Bank Officer!');
+    navigation.navigate('OfficerDashboard');
   };
 
   return (
