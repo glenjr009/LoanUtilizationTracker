@@ -20,7 +20,9 @@ A cross-platform mobile and web solution to track and verify loan utilization us
 
 📊 Real-time dashboard for officers to approve/reject verifications
 
-🛠 Tech Stack Frontend
+🛠 Tech Stack:
+
+FRONTED:-
 
 React Native / Flutter
 
@@ -28,7 +30,7 @@ Native Camera + GPS APIs
 
 Offline Storage (AsyncStorage / SQLite)
 
-Backend
+BACKEND:-
 
 Node.js / FastAPI
 
@@ -78,9 +80,9 @@ Officer reviews & approves/rejects via dashboard.
 
 🤝 Team – Hexa Titans
 
-👩‍💻 [Glen, Samruddhi, Stavan] – Frontend, Blockchain
+👩‍💻 [Glen, Samruddhi, Stavan] – Frontend, Backend, Blockchain
 
-👨‍💻 [Shreya, Avanti, M K Roshan Kanna] – Backend, AI/ML
+👨‍💻 [Shreya, Avanti, M K Roshan Kanna] – AI/ML
 
 📖 References
 
